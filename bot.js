@@ -1193,7 +1193,7 @@ By Fares
 
 
 
-    // Rocket.login("NDgxMTk3NzY5Nzk3OTI2OTIy.Dly2DQ.MgQlT2ez8m6NEbLxfvqkMfXKAcY");
+    // Rocket.login("process.env.BOT_TOKEN");
 
 
 
